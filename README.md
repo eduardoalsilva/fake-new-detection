@@ -4,6 +4,19 @@ This project is a machine learning model to detect fake news. This model is crea
 
 #### -- Project Status: [Completed]
 
+## Project Objective
+The purpose of this project is to build a machine learning model to detect fake news.
+
+### Methods Used
+* Machine Learning
+* Confusion matrix
+
+### Technologies
+* Python
+* Pandas, jupyter
+
+## Project Description
+The data source used for this project is this https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q/view that we called just news.csv, containing 6335 rows and 4 columns. With this file we will create the model to predict fake news, this data source contains 2 columns for the title and the text of a new and another column describing is the news is REAL or FAKE.
 
 
 <!-- # fake-news-detection
